@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Build artifacts
+build/
+dist/
+*.spec
+*.exe
+
+# Cache and temporary files
+*.json
+!.kiro/**/*.json
+holiday_cache_*.json
+settings*.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Verification outputs
+verify_output/
+
+# Excel temp files
+~$*.xlsx
+*.tmp
+
+# Installer and portable versions
+installer_package/
+portable_version/
+
+# Old/legacy files
+tlrs.py
+tlrs_gui.py
+tlrs_gui_v2.py
+excel_export.py
+settings.py
+updater.py
+verify_logic.py
