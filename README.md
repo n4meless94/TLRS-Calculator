@@ -38,24 +38,10 @@ A modern desktop application for calculating working day reimbursements with aut
   - Holiday source notes (online/offline/cached)
 - **CSV Export** - Simple tabular format for further analysis
 
-## 📊 Default Grade Rates
-
-| Grade | Rate per Day |
-|-------|--------------|
-| JG1   | RM20         |
-| JG2   | RM30         |
-| JG3   | RM40         |
-| JG4   | RM40         |
-| JG5   | RM50         |
-| JG6   | RM100        |
-| JG7   | RM150        |
-
-*Note: Rates can be customized in the application settings*
-
 ## 🚀 Quick Start
 
 ### Running the Application
-1. Download `QSB Working Day Calendar.exe` from the releases
+1. Download the executable from the releases
 2. Double-click to run (no installation required)
 3. Select your grade
 4. Choose month and year
